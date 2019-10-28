@@ -1,3 +1,6 @@
+# You have to "import" built in functions like random. Do this at the top
+import random
+
 # This is how a module/function definition looks. Parameters can go in the parentheses when needed
 def main():
 
