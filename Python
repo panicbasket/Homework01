@@ -1,0 +1,8 @@
+# This is how a module/function definition looks. Parameters can go in the parentheses when needed
+def main():
+
+  # This will print "hello world"
+  print('hello world')
+  
+# Calling a module/function is easy!
+main()
